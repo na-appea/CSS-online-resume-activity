@@ -1,5 +1,9 @@
 /* remove this code and add your own! */
-.greeting {
-  color: green;
+h1 {
+  color: #a869f5;
   font-size: 30px;
+}
+h2 {
+  color: #c69bfa;
+  font-size: 25px;
 }
